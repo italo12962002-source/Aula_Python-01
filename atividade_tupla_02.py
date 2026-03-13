@@ -19,7 +19,7 @@ print(f"Na escola de formação Técnica Senac estão cadastrados os 5 seguintes
  f"Idade:{idade1}\n"
  f"Sexo:{sexo1}\n"
  f"Ecolaridade:{escolaridade1}\n"
- f"----------------------------------------------\n"
+ f"----------------------------------------------\n" 
  f"Nome: {nome2}\n"
  f"Idade:{idade2}\n"
  f"Sexo:{sexo2}\n"
